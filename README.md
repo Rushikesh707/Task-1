@@ -4,6 +4,7 @@ Code :
 echo "v0.1.0"
 ![Screenshot 2024-01-04 161349](https://github.com/Rushikesh707/Task-1/assets/128886800/f7034aab-acc9-4ee0-92d8-1da86a4a6366)
 # Section B
+Code : free
 ![Screenshot 2024-01-04 162030](https://github.com/Rushikesh707/Task-1/assets/128886800/4e061c5d-03cc-4431-928a-d0655f5a6aa9)
 # Part 2
 ![Screenshot 2024-01-04 162122](https://github.com/Rushikesh707/Task-1/assets/128886800/c3ba03c4-a879-4d46-b96f-c32a415b5d24)
