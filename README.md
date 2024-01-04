@@ -21,5 +21,25 @@ else
 ![Screenshot 2024-01-04 162122](https://github.com/Rushikesh707/Task-1/assets/128886800/c3ba03c4-a879-4d46-b96f-c32a415b5d24)
 ![Screenshot 2024-01-04 162155](https://github.com/Rushikesh707/Task-1/assets/128886800/989874e1-8d24-484c-9076-e1f73fc3492f)
 ![Screenshot 2024-01-04 162217](https://github.com/Rushikesh707/Task-1/assets/128886800/8df473bf-eb67-4ab5-8260-9a2363fb2c5f)
-# Part 3
+# Part 
+!/bin/bash
+if "So" -eq 1 []:
+then 15-131
+  ls -l $1
+elif [[ "Sa -eq 2]];
+then
+if "$1"=="-s"] || ["SI"=="-size"]
+ then 
+  wc -c $2
+elif [ "$1"=="p" || "$1"=="permissions" |
+ then 
+  ls-ld $2 |awk { print $1;}' 
+elif [ "$1"=="o"]["$1"=="owner"] 
+ then
+  stat -c '%U' $2
+  elif [ "$1" == "m"] || ["$1"=="---last-modoiified"] 
+ then
+  stat -c '%y'$2
+  fi
+fi  
 ![Screenshot 2024-01-04 162300](https://github.com/Rushikesh707/Task-1/assets/128886800/2c82f206-1c49-44b0-969e-9309c6f692ff)
